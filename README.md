@@ -37,5 +37,5 @@ Credits go to [Siraj Raval](https://github.com/llSourcell) I just modified some 
 
 ## After a few days training
 
-After 6 days of training on Dell XPS 9560 15'' Nvidia GTX 1050, the trained agent could compete...   
+After 6 days of training on Dell XPS 9560 15'' Nvidia GTX 1050, the trained agent could compete...  (see below: positive rewards = wins, negative rewards = losses) 
 ![screenshot from 2018-04-26 08-39-43](https://user-images.githubusercontent.com/684574/39289723-932b02d4-492d-11e8-8062-bc45b0cf7896.png)
